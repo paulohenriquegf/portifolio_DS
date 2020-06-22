@@ -19,7 +19,7 @@ Em minhas experiências tive a oportunidade de atuar com análise de dados, com 
 ## Projetos:
 
 
-* **Data Analysis Exploratoty- TV SHOWS** https://www.kaggle.com/paulohenriquegf/tv-shows-analysis
+* **Data Analysis Exploratory- TV SHOWS** https://www.kaggle.com/paulohenriquegf/tv-shows-analysis
 
 
 ---
