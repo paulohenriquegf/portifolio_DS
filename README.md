@@ -19,8 +19,9 @@ Em minhas experiências tive a oportunidade de atuar com análise de dados, com 
 ## Projetos:
 
 
-* **Data Analysis Exploratory- TV SHOWS**  -  https://bit.ly/2BwHrQi
+* **EDA - Predict - Pleople Analitycs** -  https://bit.ly/2VJEB1Q
 * **Desafio CODENATION - Notas ENEM 2016** -  https://bit.ly/2YVMv9e
+* **Data Analysis Exploratory- TV SHOWS**  -  https://bit.ly/2BwHrQi
 
 
 ---
