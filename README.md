@@ -7,17 +7,18 @@
 
 Formação em Análise e Desenvolvimento de Sistemas. 
 Formação em Biblioteconomia e pós graduação em gestão do conhecimento.
-Em minhas experiências tive a oportunidade de atuar com análise de dados, com geração de relatórios utilizando o POWER BI e outras ferramentas para geração de dashboards produtivos.
+Em minhas experiências tive a oportunidade de atuar com análise de dados, com geração de relatórios utilizando o POWER BI e outras ferramentas para geração de dashboards.
 
-**Background in:** Python, Machine Learning.
+**Background in:** Python, Machine Learning, Data Science.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/paulo-henrique-gontijo-fonseca-8494a1bb/)
+* [LinkedIn](https://www.linkedin.com/in/paulohenriquegf/)
 * [Kaggle](https://www.kaggle.com/paulohenriquegf)
 
 
 ## Projetos:
 
+* **Desafio Final Bootcamp Analista de Machine Learning** -  https://bit.ly/32rDmIc
 * **Desafio CODENATION - Treineiro ENEM 2016** -  https://bit.ly/2Ev150Y
 * **EDA - Predict - Pleople Analitycs** -  https://bit.ly/3iytliw
 * **Desafio CODENATION - Notas ENEM 2016** -  https://bit.ly/2YVMv9e
