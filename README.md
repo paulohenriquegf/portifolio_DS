@@ -18,6 +18,7 @@ Em minhas experiências tive a oportunidade de atuar com análise de dados, com 
 
 ## Projetos:
 
+* **Analisando Dados do Airbnb (São Francisco)** -  https://bit.ly/3cD3g1r
 * **Desafio Final Bootcamp Analista de Machine Learning** -  https://bit.ly/32rDmIc
 * **Desafio CODENATION - Treineiro ENEM 2016** -  https://bit.ly/2Ev150Y
 * **EDA - Predict - Pleople Analitycs** -  https://bit.ly/3iytliw
