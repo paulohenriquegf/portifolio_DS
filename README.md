@@ -6,8 +6,9 @@
 <sub>*Cientista de Dados</sub>
 
 Formação em Análise e Desenvolvimento de Sistemas. 
-Formação em Biblioteconomia e pós graduação em gestão do conhecimento.
-Em minhas experiências tive a oportunidade de atuar com análise de dados, com geração de relatórios utilizando o POWER BI e outras ferramentas para geração de dashboards.
+Formação em Biblioteconomia e pós graduação em Gestão do Conhecimento.
+
+Power BI, Python, Automatização de processos com Crawler (Selenium WebDriver), Machine Learning, Data Science.
 
 **Background in:** Python, Machine Learning, Data Science.
 
