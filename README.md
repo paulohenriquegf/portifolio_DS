@@ -13,8 +13,8 @@ de bibliotecas, conheci o gigantesco mundo dos "Dados", desenvolvi projetos em P
 Devido a paixão pelos dados, realizei outra faculdade em Análise e Desenvolvimento de Sistemas, e conheci a Ciência de Dados.
 
 Desde então me especializo e dedico meus estudos a esta área. 
-
-* Realizei trabalhos com Python e Automatização de Processos utilizando a biblioteca (Selenium, Scrapy) +50 Crawlers Ativos. 
+ 
+* Python e Automatização de Processos utilizando a biblioteca (Selenium, Scrapy) +50 Crawlers Ativos. 
 * Automatização de dashboards utilizando Python e PowerBI.
 * Análises e predições utilizando Machine Learning.
 * Dashboards interativos em Streamlit
