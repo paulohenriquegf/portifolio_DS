@@ -14,11 +14,11 @@ Devido a paixão pelos dados, realizei outra faculdade em Análise e Desenvolvim
 
 Desde então me especializo e dedico meus estudos a esta área. 
 
-Realizei trabalhos com Python e Automatização de Processos utilizando a biblioteca (Selenium, Scrapy) +50 Crawlers Ativos. 
-Automatização de dashboards utilizando Python e PowerBI.
-Análises e predições utilizando Machine Learning.
-Dashboards interativos em Streamlit
-Melhoria e gestão de toda Documentação e Gestão do Conhecimento.
+* Realizei trabalhos com Python e Automatização de Processos utilizando a biblioteca (Selenium, Scrapy) +50 Crawlers Ativos. 
+* Automatização de dashboards utilizando Python e PowerBI.
+* Análises e predições utilizando Machine Learning.
+* Dashboards interativos em Streamlit
+* Melhoria e gestão de toda Documentação e Gestão do Conhecimento.
 
 
 Abaixo deixo alguns projetos já realizados.
