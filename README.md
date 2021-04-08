@@ -5,17 +5,31 @@
 # Paulo Henrique Gontijo Fonseca
 <sub>*Cientista de Dados</sub>
 
-Formação em Análise e Desenvolvimento de Sistemas. 
-Formação em Biblioteconomia e pós graduação em Gestão do Conhecimento.
 
-Power BI, Python, Automatização de processos com Crawler (Selenium WebDriver), Machine Learning, Data Science.
 
-**Background in:** Python, Machine Learning, Data Science.
+Sou o Paulo Henrique, sou formado em biblioteconomia, e pós graduado em gestão do conhecimento, tal área, devido a escassez do sistema de gestão 
+de bibliotecas, conheci o gigantesco mundo dos "Dados", desenvolvi projetos em Power BI de Análise de Dados que trouxe benefícios e redução de custos para a empresa.
+
+Devido a paixão pelos dados, realizei outra faculdade em Análise e Desenvolvimento de Sistemas, e conheci a Ciência de Dados.
+
+Desde então me especializo e dedico meus estudos a esta área. 
+
+Realizei trabalhos com Python e Automatização de Processos utilizando a biblioteca (Selenium, Scrapy) +50 Crawlers Ativos. 
+Automatização de dashboards utilizando Python e PowerBI.
+Análises e predições utilizando Machine Learning.
+Dashboards interativos em Streamlit
+Melhoria e gestão de toda Documentação e Gestão do Conhecimento.
+
+
+Abaixo deixo alguns projetos já realizados.
+
+
+**Background in:** Python, Machine Learning, Data Science, WebScraping. WebCrawler (Selenium ), Power BI, Data Analysis.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/paulohenriquegf/)
-* [Kaggle](https://www.kaggle.com/paulohenriquegf)
-
+* [Github](https://github.com/paulohenriquegf/)
+* [Contato](paulohenriquegf@hotmail.com)
 
 ## Projetos:
 
