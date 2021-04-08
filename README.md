@@ -7,7 +7,7 @@
 
 
 
-Sou o Paulo Henrique, sou formado em biblioteconomia, e pós graduado em gestão do conhecimento, tal área, devido a escassez do sistema de gestão 
+Sou formado em biblioteconomia, e pós graduado em gestão do conhecimento, tal área, devido a escassez do sistema de gestão 
 de bibliotecas, conheci o gigantesco mundo dos "Dados", desenvolvi projetos em Power BI de Análise de Dados que trouxe benefícios e redução de custos para a empresa.
 
 Devido a paixão pelos dados, realizei outra faculdade em Análise e Desenvolvimento de Sistemas, e conheci a Ciência de Dados.
