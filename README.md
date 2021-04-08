@@ -30,8 +30,8 @@ Abaixo deixo alguns projetos já realizados.
 * [LinkedIn](https://www.linkedin.com/in/paulohenriquegf/)
 * [Github](https://github.com/paulohenriquegf/)
 
-**Contato** 
-paulohenriquegf@hotmail.com
+**Contato:**
+ paulohenriquegf@hotmail.com
 
 ## Projetos:
 
