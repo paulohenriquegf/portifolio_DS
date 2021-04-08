@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" >
+  <img src="https://lh3.googleusercontent.com/proxy/KOhZs0SRn5EqOxddRxQWGQvF4UJl_pi209bqTxyTQjpjF7Ypr-UziUeEj_WZSYg6z8mowsy-G-pF6EFzVallDeepMsk2kSd991WLksiwKVq_BuJrqZkY2g" >
 </p>
 
 # Paulo Henrique Gontijo Fonseca
